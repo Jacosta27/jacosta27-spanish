@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to bottom, #ff99cc 20%, #ffff00 100%);
+}
+
+h1{
+    color: mediumslateblue;
+    font-family : 'Lucida Handwriting', cursive;
+    text-align: center;
+
+}
+
+h2{
+    color : #9871f3;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#p1 {
+    text-align: center;
+    font-family: 'Garamond', "Times New Roman", Times, serif;
+}
+p{
+    font-family: 'Garamond', "Times New Roman", Times, serif;
+}
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:302.4px;
+  height:403.2px; 
+}
+
+.styled{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+.center {
+  display: flex;
+  justify-content: center;           
+}
+
+.hidden{
+    font-size: 25px;
+    color: #e1e100;
+}
+
+.right{
+    display: flex;
+  justify-content:right
+}
